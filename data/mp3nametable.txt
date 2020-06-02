@@ -1223,5 +1223,5 @@ emos_dun02h.rsw#bgm\\116.mp3#
 
 // Old Payon
 payo2.rsw#bgm\\14.mp3#
-payo2_in01.rsw#bgm\\14.mp3#
-payo2_in02.rsw#bgm\\14.mp3#
+pa2_in01.rsw#bgm\\14.mp3#
+pa2_in02.rsw#bgm\\14.mp3#
