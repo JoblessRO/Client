@@ -5,7 +5,7 @@
 	<servertype>primary</servertype>
 	<connection>
 		<display>Jobless Ragnarok Online</display>
-      		<address>127.0.0.1</address>
+      		<address>134.209.110.172</address>
       		<port>6900</port>
       		<version>55</version>
       		<langtype>5</langtype>
